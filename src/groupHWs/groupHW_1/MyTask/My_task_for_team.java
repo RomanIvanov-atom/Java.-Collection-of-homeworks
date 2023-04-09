@@ -1,4 +1,4 @@
-package groupHWs.groupHW_1.my_task;
+package groupHWs.groupHW_1.MyTask;
 
 public class My_task_for_team {
 
