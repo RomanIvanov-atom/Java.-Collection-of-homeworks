@@ -22,7 +22,7 @@ package groupHWs.groupHW_3.SergeysTask;
 // строка из восьми символов, то есть abaaabab
 public class Main {
     public static void main(String[] args) {
-        System.out.println(Letsdoit.letsDoIt(5));
+        System.out.println(Letsdoit.letsDoIt(30));
     }
 }
 //1   0

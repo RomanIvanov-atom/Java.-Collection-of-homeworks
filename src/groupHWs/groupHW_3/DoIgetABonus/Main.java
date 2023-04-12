@@ -1,4 +1,5 @@
 package groupHWs.groupHW_3.DoIgetABonus;
+
 //It's bonus time in the big city! The fatcats are rubbing their paws in anticipation...
 // but who is going to make the most money?
 //Build a function that takes in two arguments (salary, bonus).
