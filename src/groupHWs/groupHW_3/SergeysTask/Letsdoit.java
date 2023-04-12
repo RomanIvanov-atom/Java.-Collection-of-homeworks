@@ -1,4 +1,4 @@
-package groupHWs.groupHW_3.NeuchTask;
+package groupHWs.groupHW_3.SergeysTask;
 
 import static java.lang.Math.pow;
 
