@@ -1,4 +1,4 @@
-package HW7_1;
+package HW_7_1;
 
 
 public class Main {

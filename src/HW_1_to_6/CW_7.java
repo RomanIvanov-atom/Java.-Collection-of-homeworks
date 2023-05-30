@@ -1,4 +1,4 @@
-package HW_from1_to6;
+package HW_1_to_6;
 
 public class CW_7 {
     public static void sumOfThree ( int firstValue, int secondValue, int thirdValue ) {

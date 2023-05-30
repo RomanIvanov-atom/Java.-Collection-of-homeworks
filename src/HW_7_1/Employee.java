@@ -1,4 +1,4 @@
-package HW7_1;
+package HW_7_1;
 //Задача №2
 //
 //Необходимо создать класс Employee с полями как у Person

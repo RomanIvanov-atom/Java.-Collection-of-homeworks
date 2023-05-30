@@ -1,4 +1,4 @@
-package HW_from1_to6;
+package HW_1_to_6;
 
 public class HW_5_1 {
     public static void main(String[] args) {
