@@ -1,4 +1,4 @@
-package TasksWithExceptions.Task2;
+package TasksWithExceptions.Task2_ArithmeticException;
 
 
 /*

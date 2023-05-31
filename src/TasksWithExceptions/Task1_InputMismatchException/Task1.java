@@ -1,4 +1,4 @@
-package TasksWithExceptions.Task1;
+package TasksWithExceptions.Task1_InputMismatchException;
 
 import java.util.Scanner;
 
